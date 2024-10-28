@@ -17,7 +17,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-- 🐐 I'm a pro: Typescript, Javascript, NodeJs, ExpressJs, API REST, NestJs, React, NextJs, MongoDB, PostgreSQL, Docker, Sonarqube, GIT, Figma.
+- 🐐 I'm a pro: Typescript, Javascript, NodeJs, ExpressJs, API REST, NestJs, React, NextJs, MongoDB, PostgreSQL, Docker, GIT, Figma.
 
 
 <!--
