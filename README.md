@@ -11,7 +11,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-- 🐐 I'm a pro: Typescript, Javascript, NodeJs, ExpressJs, API REST, NestJs, React, NextJs, MongoDB, PostgreSQL, Docker, GIT, Figma.
+- 🐐 I'm a pro: Typescript, Javascript, NodeJs, ExpressJs, API REST, NestJs, React, NextJs, MongoDB, PostgreSQL, Docker, GIT, Figma, Shopify.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
